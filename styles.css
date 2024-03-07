@@ -29,9 +29,9 @@ h1{
 	text-align:center;
 }
 .cen{
-	background-color:rgba(0, 0, 0, 0);
+	background-color:rgb(46, 204, 113);
 	/* text-align:center; */
-	color:#2ecc71;
+	color:white;
 	padding:10px;
 	border-radius:10px;
 }
