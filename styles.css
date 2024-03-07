@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 body{
-	background-color:  #ffffff;
+	background-color:  #f8f8f8;
 	/* text-align:center; */
 }
 
@@ -29,9 +29,9 @@ h1{
 	text-align:center;
 }
 .cen{
-	background-color:#2ecc71;
+	background-color:rgba(0, 0, 0, 0);
 	/* text-align:center; */
-	color:white;
+	color:#2ecc71;
 	padding:10px;
 	border-radius:10px;
 }
