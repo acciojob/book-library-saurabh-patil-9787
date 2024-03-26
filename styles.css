@@ -1,11 +1,13 @@
 /*  your css code here. If applicable */
 body{
-	background-color:  #f8f8f8;
+	background-color:  #ffffff;
 	/* text-align:center; */
 }
 
 .book-library{
-	background-color:  #ffffff;
+	/* background-color:  #ffffff;
+	*/
+		background-color:  #f8f8f8;
 	/* width:80vw; */
 	padding:10px;
 	text-align:center;
