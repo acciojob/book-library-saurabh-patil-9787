@@ -16,7 +16,7 @@ body{
 
 }
 
-.auth{
+.author{
 	color:#777777;
 	text-align:left;
 	
@@ -28,7 +28,7 @@ h2{
 h1{
 	text-align:center;
 }
-.cen{
+.price{
 	background-color:rgb(46, 204, 113);
 	/* text-align:center; */
 	color:white;
